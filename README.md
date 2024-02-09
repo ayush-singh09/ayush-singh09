@@ -1,4 +1,4 @@
-#👋 Hi, I’m Ayush Singh
+# 👋 Hi, I’m Ayush Singh
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning `React` and Backend Development.
 - 🧑‍💻 Languages I know `C` `C++` `Java` `Python` `JavaScript` 
