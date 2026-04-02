@@ -1,9 +1,18 @@
 <h1 align="center"><b>Hi , I'm Ayush Singh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 👀 I’m interested in Web and App Development.
-- 🌱 I’m currently learning `React Native`.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Building;Creating;Learning<3"></a>
+</p>
+
+
+<br>
+
+
+- 👔 Currently Automating Systems at 
+- 👀 Interested in Web and App Development.
+- 🌱 `Building Products` at [`Ayush Labs`](https://github.com/ayushlabs-io) as well as learning `AWS`.
 - 🧑‍💻 Languages I know `C` `C++` `Java` `Python` `JavaScript` 
-- 💞️ I’m looking to collaborate on Web and App Developing Projects.
+- 💞️ Looking to collaborate on Web and App Developing Projects.
 - 📫 You can reach to me on my LinkedIn Profile [LinkedIn](https://www.linkedin.com/in/ayush-singh-959207253/)
 
 ## 🌐 Socials:<br>
