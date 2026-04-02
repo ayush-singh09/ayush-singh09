@@ -8,7 +8,7 @@
 <br>
 
 
-- 👔 Currently Automating Systems at 
+- 👔 Currently Automating Systems at  <img src="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/digital-graphics/ds-logos/logo-ltimindtree.svg" width="40">
 - 👀 Interested in Web and App Development.
 - 🌱 `Building Products` at [`Ayush Labs`](https://github.com/ayushlabs-io) as well as learning `AWS`.
 - 🧑‍💻 Languages I know `C` `C++` `Java` `Python` `JavaScript` 
